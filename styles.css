@@ -1,0 +1,23 @@
+h1 {
+    text-align: center;
+}
+
+h3 {
+    word-wrap: break-word;
+}
+.circle{
+    width: 300px;
+    height: 300px;
+    background-color: black;
+    border-radius: 30%;
+    margin: 100px;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    color: aliceblue;
+    font-size: 20px;
+    align-items: center;
+}
+.box {
+    border: 2px dashed black;
+}
